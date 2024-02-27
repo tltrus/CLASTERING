@@ -1,0 +1,16 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="MyClaster K-means" Height="590" Width="600">
+    <Grid>
+        <StackPanel>
+            <Label Content="Left mouse button - to add point / Right mouse button - to add cluster" />
+            <Button Content="Start clustering" Margin="5" Height="30" Click="Button_Click"/>
+            <local:DrawingVisualClass x:Name="g" Background="Black" Height="470" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="580" MouseLeftButtonUp="g_MouseLeftButtonUp" MouseRightButtonUp="g_MouseRightButtonUp"/>
+        </StackPanel>
+    </Grid>
+</Window>
