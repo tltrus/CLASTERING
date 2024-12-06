@@ -4,7 +4,7 @@
 # K-means
 K-means clustering application
 
-- Youtube:
+- Youtube: https://youtu.be/b81tIrXu5Xs
 - Rutube:
 
 ![image](https://github.com/tltrus/CLASTERING/assets/77125487/dbf6ef3f-e761-4007-8318-d2f037aa9e81)
