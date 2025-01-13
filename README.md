@@ -4,7 +4,7 @@
 # ART1
 Adaptive Resonance Theory / ART1 algorithm.
 
-- Youtube: https://youtu.be/b81tIrXu5Xs
+- Youtube: 
 - Rutube:
 
 ![image](https://github.com/user-attachments/assets/a8c1f936-43d7-42ab-a06b-80c8d9ee5531)
