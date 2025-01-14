@@ -1,5 +1,5 @@
-# CLASTERING
- C# clastering app
+# CLUSTERING
+ C# clustering app
 
 # ART1
 Adaptive Resonance Theory / ART1 algorithm.
