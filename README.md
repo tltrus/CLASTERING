@@ -10,6 +10,18 @@ Adaptive Resonance Theory / ART1 algorithm.
 ![image](https://github.com/user-attachments/assets/a8c1f936-43d7-42ab-a06b-80c8d9ee5531)
 
 
+# Hoshen-Kopelman+Burning_algorithms
+C# algorithms for labeling clusters on a grid.
+- Hoshen-Kopelman algorithm.
+- Burning method.
+
+Hoshen-Kopelman algorithm is based on article: https://www.ocf.berkeley.edu/~fricke/projects/hoshenkopelman/hoshenkopelman.html
+- Youtube: 
+- Rutube: 
+
+![image](https://github.com/user-attachments/assets/4b06976d-2b6b-46f8-8e09-d642554681b4)
+
+
 # K-means
 K-means clustering application
 
