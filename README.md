@@ -16,8 +16,8 @@ C# algorithms for labeling clusters on a grid.
 - Burning method.
 
 Hoshen-Kopelman algorithm is based on article: https://www.ocf.berkeley.edu/~fricke/projects/hoshenkopelman/hoshenkopelman.html
-- Youtube: 
-- Rutube: 
+- Youtube: https://youtu.be/AHfJO_eXWsA
+- Rutube: https://rutube.ru/video/private/101229b4c193fb17e94e16930ce7f981/?p=AuCJCMdX5iuYlu_SQTizXw
 
 ![image](https://github.com/user-attachments/assets/4b06976d-2b6b-46f8-8e09-d642554681b4)
 
